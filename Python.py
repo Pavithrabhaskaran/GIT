@@ -1,8 +1,8 @@
 Input:
-a=4
-b=7
+a=5
+b=3
 
-print(a+b)
+print(a*b)
 
 Output:
-11
+15
